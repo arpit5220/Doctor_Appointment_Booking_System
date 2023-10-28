@@ -1,4 +1,6 @@
  # Doctor_Appointment_Booking_System
+  ![Screenshot (26)](https://github.com/arpit5220/Doctor_Appointment_Booking_System/assets/94009815/bf75ed16-69b1-4323-94cc-b6752d4099d5)
+  
 
 ## Functionalities
 - Admin Login
