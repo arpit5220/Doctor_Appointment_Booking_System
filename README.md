@@ -12,6 +12,7 @@
 ## Backend Work
 - Manage Database for Doctor and Patient 
 - Create Servlets for differnt Modules
+- Proper Exception Handling
 - Authentication using DataBase
 
 ## Tech Stacks
